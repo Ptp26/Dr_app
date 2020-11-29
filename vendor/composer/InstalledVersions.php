@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '77cda43db524507e26067d7e8e03665e941e1d69',
+    'reference' => 'dc0b3e9bf52522e25a1658e477dd8c7fc5e9d7ff',
     'name' => '__root__',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '77cda43db524507e26067d7e8e03665e941e1d69',
+      'reference' => 'dc0b3e9bf52522e25a1658e477dd8c7fc5e9d7ff',
     ),
     'heroku/heroku-buildpack-php' => 
     array (
