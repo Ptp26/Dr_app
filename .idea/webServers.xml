@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="773965e4-4b04-45bf-b1c1-0f044bd1d36c" name="dr_app (1)" url="http://localhost:3000">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>dr_app</name>
+        <servers>
+          <name value="dr_app (1)" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</project>
