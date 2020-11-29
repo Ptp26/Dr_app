@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7e575f5-7e40-42da-b526-71d0f087941c" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,11 @@
     <property name="validate C:/Users/priya/RubymineProjects/Dr_app/composer.json" value="--no-interaction --ansi --verbose --no-check-all --with-dependencies" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\priya\RubymineProjects\Dr_app\app" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +86,7 @@
       <updated>1606604373888</updated>
       <workItem from="1606604374944" duration="3207000" />
       <workItem from="1606607622942" duration="1455000" />
-      <workItem from="1606609096721" duration="3016000" />
+      <workItem from="1606609096721" duration="4502000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1606606063797</created>
@@ -118,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606611806782</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1606612221325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606612221325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,10 +157,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="399" key="#Composer/0.0.1920.1040@0.0.1920.1040" timestamp="1606607637691" />
-    <state x="552" y="178" key="#Deployment" timestamp="1606611356181">
+    <state x="552" y="178" key="#Deployment" timestamp="1606613926616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1606611356181" />
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1606613926616" />
     <state x="637" y="201" key="#Options" timestamp="1606611075115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,10 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606610869209" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606611812062">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606612224958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606611812062" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606612224958" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606609587464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
