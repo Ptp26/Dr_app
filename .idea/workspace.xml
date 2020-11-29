@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2736a19-e9aa-436d-b4d0-78c48399cf37" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php" afterDir="false" />
     </list>
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606615097497</updated>
-      <workItem from="1606615098518" duration="2562000" />
+      <workItem from="1606615098518" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1606615585922</created>
@@ -125,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606620988712</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial commit">
+      <created>1606621163978</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606621163978</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,9 +167,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606615692294" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606620996968">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606621171399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606620996968" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606621171399" />
   </component>
 </project>

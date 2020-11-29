@@ -1,9 +1,11 @@
 <?php
 
-echo  "Hello World";
-
-?>
-
-<a window.location.href="../View.php">Doctor</a>
+//echo  "Hello World";
+//
+////include_once("../View.php");
+//?>
+<?php header("Location: ../View.php"); ?>
 <br>
-<a window.location.href="../dr_schedule/View.php">Doctor Schedule</a>
+<a href="../View.php">Doctor</a>
+<br>
+<a href="../dr_schedule/View.php">Doctor Schedule</a>
