@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e575f5-7e40-42da-b526-71d0f087941c" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="d7e575f5-7e40-42da-b526-71d0f087941c" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response1.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -62,6 +68,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
     <property name="validate C:/Users/priya/RubymineProjects/Dr_app/composer.json" value="--no-interaction --ansi --verbose --no-check-all --with-dependencies" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -75,7 +82,7 @@
       <updated>1606604373888</updated>
       <workItem from="1606604374944" duration="3207000" />
       <workItem from="1606607622942" duration="1455000" />
-      <workItem from="1606609096721" duration="373000" />
+      <workItem from="1606609096721" duration="2595000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1606606063797</created>
@@ -98,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606609140078</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1606609593467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606609593467</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +139,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="399" key="#Composer/0.0.1920.1040@0.0.1920.1040" timestamp="1606607637691" />
+    <state x="552" y="178" key="#Deployment" timestamp="1606611356181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1606611356181" />
+    <state x="637" y="201" key="#Options" timestamp="1606611075115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="201" key="#Options/0.0.1920.1040@0.0.1920.1040" timestamp="1606611075115" />
     <state x="736" y="432" width="447" height="265" key="ComposerInitDialogKey" timestamp="1606608479401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -133,9 +155,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="824" y="425" key="ComposerValidateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606608693536" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606609144815">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606611124995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606609144815" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606611124995" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1606611599976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606611599976" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606610869209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606610869209" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606609596543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606609596543" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606609587464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606609587464" />
   </component>
 </project>
