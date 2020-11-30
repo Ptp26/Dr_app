@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Build Path: /public/.heroku/php-min
+
+source $(dirname $0)/php-min

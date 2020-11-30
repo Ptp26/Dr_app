@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Build Path: /public/.heroku/php
+
+source $(dirname $0)/php
