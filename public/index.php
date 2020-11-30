@@ -11,6 +11,6 @@
 <a href="../dr_schedule/View.php">Doctor Schedule</a>
 <script>
 
-    window.location="View.php";
+    window.location="../View.php";
 
 </script>
