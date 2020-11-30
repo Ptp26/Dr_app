@@ -4,7 +4,7 @@
 //
 ////include_once("../View.php");
 //?>
-<?php header("Location: ../View.php"); ?>
+
 <br>
 <a href="../View.php">Doctor</a>
 <br>
